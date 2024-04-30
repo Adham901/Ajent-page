@@ -1,0 +1,10 @@
+a{
+  text-decoration: none !important;
+  color: black !important;
+}
+p{
+  color: gray;
+}
+ul li{
+  list-style: none;
+}

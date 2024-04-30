@@ -1,0 +1,12 @@
+.about .first{
+    height: 70vh;
+    background-image: url(../data/images/immio.jpg);
+    background-position: center ;
+    background-size: cover;
+    color: white;
+}
+
+.about .second{
+    height: 80vh;
+    color: midnightblue;
+}
